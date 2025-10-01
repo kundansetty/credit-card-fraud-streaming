@@ -21,3 +21,6 @@ venv/
 docker-compose.override.yml
 
 data/creditcard.csv
+
+# Ignore large datasets
+data/*.csv
